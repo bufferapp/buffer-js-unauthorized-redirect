@@ -1,0 +1,14 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "node": "8"
+        },
+        "browsers": "> 3%"
+      }
+    ]
+  ],
+  "plugins": ["transform-export-extensions"]
+}
