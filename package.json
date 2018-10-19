@@ -1,6 +1,6 @@
 {
   "name": "@bufferapp/unauthorized-redirect",
-  "version": "1.9.8-beta-01",
+  "version": "1.9.8",
   "description": "Middleware to redirect to login when unauthorized rpc response is received",
   "main": "lib/index.js",
   "scripts": {
