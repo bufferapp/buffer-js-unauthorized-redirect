@@ -1,4 +1,3 @@
-// TODO: async data fetch needs to be transpiled (breaks babel)
 import { actionTypes } from '@bufferapp/async-data-fetch'
 import { logoutUrl } from '@bufferapp/session-manager'
 
